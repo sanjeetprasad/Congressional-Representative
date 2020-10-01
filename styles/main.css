@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-color: rgb(235, 220, 17);
+    text-align: center;
+    font-size: 40px;
+    padding: 20px, auto;
+    margin: 0px;
+}
+.img {
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    margin: 10px;
+}
+.basic__info {
+    display: flex;
+    background-color: blanchedalmond;
+    margin: 0px;
+}
+.committees__title {
+    text-align: center;
+    font-size: 30px;
+    margin: 0px;
+}
+.committees {
+    background-color: cornsilk;
+    margin: 0px;
+    padding: 10;
+}
+.foot {
+    background-color: darkgrey;
+    margin: 0px;
+}
+
+.legis {
+    text-align: center;
+    font-size: 30px;
+    margin: 0px;
+}
+.legis__link {
+    
+    text-align: center;
+    margin: 0px;
+}
